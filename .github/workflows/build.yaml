@@ -33,4 +33,4 @@ jobs:
           context: .
           platforms: linux/arm64
           push: true
-          tags: thedevhubstack/sample-react-app
+          tags: ajeetraina/sample-react-app
